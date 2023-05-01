@@ -1,0 +1,24 @@
+//Instalar node (nodejs.org)
+node version -v
+
+//Importar biblioteca
+npm install -g http-server
+
+//Acessar terminal - subir servidor localhost
+http-server
+
+//Adicionar normalize css (padronizar entre navegadores)
+- github: https://necolas.github.io/normalize.css/
+- cdn: https://cdnjs.com/libraries/normalize
+    - copiar tag <link> e colar no index.html
+- fontes: https://fonts.google.com/specimen/Roboto
+    - copiar <link> e styles
+
+// Mobile First
+- media query css: layout responsivo para mobile
+    - https://www.w3schools.com/Css/css3_mediaqueries_ex.asp
+
+// Chamada REST via Jascript
+- Fetch API
+    - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+    - Conceito: "Promise"
