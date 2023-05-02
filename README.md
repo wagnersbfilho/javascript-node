@@ -9,6 +9,7 @@
 - Import/Export 
 - Normalize/CDN
 - Mobile First
+- Media Queries
 - Arrow Functions
 - Fetch API / Promise
 - JQuery 
